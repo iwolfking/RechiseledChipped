@@ -1,0 +1,57 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "chipped:autumnkin"
+    },
+    {
+      "item": "chipped:dewkin"
+    },
+    {
+      "item": "chipped:dirty_dewkin"
+    },
+    {
+      "item": "chipped:dirty_goldkin"
+    },
+    {
+      "item": "chipped:dirty_rosekin"
+    },
+    {
+      "item": "chipped:end_pumpkin"
+    },
+    {
+      "item": "chipped:end_pumpkin_purple"
+    },
+    {
+      "item": "chipped:goldkin"
+    },
+    {
+      "item": "chipped:kabotchkin"
+    },
+    {
+      "item": "chipped:nether_pumpkin"
+    },
+    {
+      "item": "chipped:overgrown_pumpkin"
+    },
+    {
+      "item": "chipped:overgrown_autumnkin"
+    },
+    {
+      "item": "chipped:overgrown_lumpkin"
+    },
+    {
+      "item": "chipped:overgrown_pimpkin"
+    },
+    {
+      "item": "chipped:pimpkin"
+    },
+    {
+      "item": "chipped:rosekin"
+    }
+  ],
+  "overwrite": false
+}

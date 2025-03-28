@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "xyz.iwolfking.rechiseledchipped.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "rechiseled_chipped.refmap.json",
+  "mixins": [
+    "MixinChipped",
+    "MixinChippedModBlocks",
+    "rechiseled.MixinBaseChiselingContainerScreen",
+    "rechiseled.MixinChiselingRecipeCategory",
+    "rechiseled.MixinEntryButtonWidget"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

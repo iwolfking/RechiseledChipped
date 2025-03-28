@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "item": "minecraft:pearlescent_froglight"
+    },
+    {
+      "item": "chipped:ad_astra_pearlescent_froglight"
+    },
+    {
+      "item": "chipped:ancient_pearlescent_froglight"
+    },
+    {
+      "item": "chipped:barred_pearlescent_froglight"
+    },
+    {
+      "item": "chipped:elemental_pearlescent_froglight"
+    },
+    {
+      "item": "chipped:exposed_pearlescent_froglight"
+    },
+    {
+      "item": "chipped:glass_pearlescent_froglight"
+    },
+    {
+      "item": "chipped:reinforced_pearlescent_froglight"
+    },
+    {
+      "item": "chipped:round_pearlescent_froglight"
+    }
+  ],
+  "overwrite": false
+}
