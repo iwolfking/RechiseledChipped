@@ -84,14 +84,16 @@
  
      
      recipeLayoutBuilder.addSlot(RecipeIngredientRole.INPUT, 1, 28).addItemStacks(inputs);
- 
- 
-     
-     for (int i = 0; i < outputs.size(); i++) {
-       int x = 49 + 18 * i % 7;
-       int y = 1 + 18 * i / 7;
-       recipeLayoutBuilder.addSlot(RecipeIngredientRole.OUTPUT, x, y).addItemStacks(outputs.get(i));
-     } 
+
+
+
+       for (int i = 0; i < outputs.size(); i++) {
+           int x = 49 + 18 * (i % 7);
+           int y = 1 + 18 * (i / 7);
+           recipeLayoutBuilder.addSlot(RecipeIngredientRole.OUTPUT, x, y)
+                   .addItemStacks(outputs.get(i));
+       }
+
    }
  }
 
